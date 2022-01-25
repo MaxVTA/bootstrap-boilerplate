@@ -18,7 +18,7 @@ A basic HTML5 Bootstrat Templace, including the required CSS and JS for Bootstra
 Open Source Code
 
 ## Citation
--Please add a code comment linking back to this repository when you use this code.
+- Please add a code comment linking back to this repository when you use this code.
 
 ## Contact
 - Max Agress mvagress@ucdavis.edu
